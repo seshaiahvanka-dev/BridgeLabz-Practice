@@ -9,7 +9,6 @@ public class Inheritance {
 		c.drive();
 		
 	}
-
 }
 
 class Vehicle {
