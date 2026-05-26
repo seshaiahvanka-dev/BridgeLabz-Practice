@@ -1,3 +1,6 @@
+//Read a single Digit Number and write in word
+
+
 package DAY02;
 
 import java.util.Scanner;
